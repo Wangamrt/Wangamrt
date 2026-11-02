@@ -52,7 +52,8 @@ Welcome to my little corner of GitHub.
 </p>
 
 <p align="center">
-  <img width="97%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wangamrt&theme=dracula" alt="GitHub profile and contribution overview" />
+    <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=Wangamrt&theme=dracula&hide_border=true&area=true&custom_title=Contribution%20Activity%20%28Last%2031%20Days%29" alt="GitHub contribution activity over the last 31 days" />
+
 </p>
 
 <!-- Language charts reflect repository and commit distribution, not proficiency. -->
